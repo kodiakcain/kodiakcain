@@ -7,16 +7,19 @@ Aspiring **Web Developer** and **Software Engineer** passionate about creating d
 ### [ReactMotionLab](https://reactmotionlab.com) 
 A full **CSS animation package** currently in version **1.0.0**, featuring **14 animations** and growing, encouraging community support and contributions. Built with **React**, **Next.js**, **Framer Motion**, and **TailwindCSS**, this project helped me hone my skills in **CSS animations**, **Webpack**, and **npm** package management.
 
+- **Site:** [reactmotionlab.com](https://reactmotionlab.com/)
 - **GitHub:** [ReactMotionLab Repository](https://github.com/kodiakcain/reactmotionlab)
 
 ### [Uranym](https://uranym.com) 
 A full-stack task management web app leveraging **Firebase Firestore** as a database with **React** and **Next.js** for the front-end. The app allows users to log in via **Google**, and perform **CRUD** operations on tasks, with **Material-UI** for UI components and **Framer Motion** for animations.
 
+- **Site:** [uranym.com](https://uranym.com)
 - **GitHub:** [Uranym Repository](https://github.com/kodiakcain/uranym)
 
 ### [Deveclipse](https://deveclipse.com) 
 A collaborative full-stack web application for managing repositories, allowing users to log in with **GitHub OAuth** and edit repositories in real-time using **Monaco Editor**. Built with **React + Vite**, **Node.js**, and integrated **CI/CD pipelines** using GitHub Actions, this app showcases real-time interaction with GitHub’s API.
 
+- **Site:** [deveclipse.com](https://deveclipse.com)
 - **GitHub:** [Deveclipse Repository](https://github.com/kodiakcain/deveclipse)
 
 ## 🛠 My Skills and Tools
