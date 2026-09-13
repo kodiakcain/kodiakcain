@@ -12,6 +12,8 @@ I hold both a **B.S. in Computer Science** and an **M.S. in Software Engineering
 
 **OrbitOps** is an open-source Python command-line toolkit I'm developing for satellite tracking and orbital analysis using publicly available CelesTrak data.
 
+**PyPI:** [pypi.org/project/orbitops](https://pypi.org/project/orbitops/)
+
 It uses **OMM orbital data and SGP4 propagation** to calculate and visualize spacecraft motion.
 
 Current capabilities include:
