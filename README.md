@@ -8,7 +8,7 @@ Alongside my hardware work, I continue to develop my software engineering skills
 
 I hold both a **B.S. in Computer Science** and an **M.S. in Software Engineering** from **George Mason University**.
 
-## Featured Project — OrbitOps
+## Featured Project - OrbitOps
 
 **OrbitOps** is an open-source Python command-line toolkit I'm developing for satellite tracking and orbital analysis using publicly available CelesTrak data.
 
